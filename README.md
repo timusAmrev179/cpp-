@@ -15,5 +15,9 @@ problem description:
 Each element in the array represents your maximum jump length at that position.
 
 Determine if you are able to reach the last index.
+# Tree from LinkedList
+Given a Linked List Representation of Complete Binary Tree. The task is to construct the Binary tree.
+Note : The complete binary tree is represented as a linked list in a way where if root node is stored at position i, its left, and right children are stored at position 2*i+1, 2*i+2 respectively.
+
 
 
