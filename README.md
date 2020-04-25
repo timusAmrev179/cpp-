@@ -8,3 +8,12 @@ It uses bitset efficiently to output the total number of possible arrangement fo
 # Ones Island
 Island is the contiguous occurrences of same symbol over a region. Here in this case the symbol is numeric digit '1'. 
 The Floodfill algorithm using DFS can be used to perform the program in very simple and easy at the same time. 
+# can Jump
+problem description: 
+  Given an array of non-negative integers, you are initially positioned at the first index of the array.
+
+Each element in the array represents your maximum jump length at that position.
+
+Determine if you are able to reach the last index.
+
+
